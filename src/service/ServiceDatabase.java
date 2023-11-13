@@ -37,7 +37,7 @@ public class ServiceDatabase {
      * @param parameter
      * @return
      */
-    public ResultSet select (Connection con, String select, String... parameter){
+    /*public ResultSet select (Connection con, String select, String... parameter){
         
-    }
+    }*/
 }
